@@ -1,5 +1,5 @@
 
-👉 inline vs inline-block vs block
+👉 <strong>inline vs inline-block vs block</strong>
 inline: it don’t start on a new line, they appear on the same line as the content and tags beside them. Any height and width properties will have no effect. margin top and margin bottom have no effect as well. <span>, <a>, <img> are inline elements
 inline-block: It’s essentially the same thing as inline, except that you can set height and width values. all side margins work as well. 
 block: always starts on a new line, and fills up the horizontal space left and right on the web page. 'div', 'p', 'h1', 'li'
