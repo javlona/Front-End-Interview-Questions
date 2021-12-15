@@ -1,5 +1,5 @@
 
-JavaScript interview questions
+JavaScript interview questions <br>
 1."use strict"
 "use strict" is to indicate that the code should be executed in "strict mode". 
 For example: 
